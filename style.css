@@ -11,6 +11,10 @@
     border: none;
 }
 
+.all {
+    margin-top: 200px;
+}
+
 p {
     color: black;
 }
@@ -34,7 +38,7 @@ footer {
 
 .parent {
     width: 90vw;
-    margin: auto;
+    margin: 20px auto;
 }
 
 #parent {
@@ -10630,5 +10634,4 @@ a.text-dark:hover {
     }
 }
 
-
-/*# sourceMappingURL=bootstrap.min.css.map */
+# sourceMappingURL=bootstrap.min.css.map
